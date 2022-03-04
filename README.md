@@ -30,8 +30,8 @@ We are using [this template for ADR](https://gist.github.com/iaincollins/92923cc
 
  <!-- _How to run the development environment_ -->
 
-<!-- - npm > `6.1.0`
-- [Node 12](https://nodejs.org/docs/latest-v12.x/api/)
+<!-- - npm > `6.14.14`
+- [Node 14](https://nodejs.org/docs/latest-v14.x/api/)
 
 Node version is set in node version manager [`.nvmrc`](https://github.com/creationix/nvm#nvmrc)
 
